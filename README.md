@@ -34,7 +34,10 @@
    ```
 6. Run the app:
    ```bash
-   streamlit run app.py
+   Make sure interpreter is in Python 3.12.4 ('base') 
+   Run the app in the app.py terminal with: 
+
+   streamlit run app.py 
    ```
 
 ## Usage
