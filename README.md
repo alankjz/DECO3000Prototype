@@ -14,21 +14,23 @@
 - Python 3.7 or higher
 
 ### Setup Instructions
-1. Clone this repository:
+1. Clone this repository or download as Zip File:
    ```bash
    git clone https://github.com/alankjz/DECO3000Prototype
    ```
-2. Navigate into the project directory:
+2. Navigate into the project directory in terminal:
    ```bash
-   cd DECO3000Prototype
+   cd DECO3000Prototype-main
    ```
 4. Install required packages:
    ```bash
-   pip install streamlit requests python-dotenv
+   pip install streamlit 
+   pip install requests 
+   pip install python-dotenv
    ```
 5. Create a `.env` file in the root directory and add your API key:
    ```plaintext
-   API_KEY=your_api_key_here
+   API_KEY='your_api_key_here'
    ```
 6. Run the app:
    ```bash
