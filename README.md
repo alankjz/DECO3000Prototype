@@ -39,6 +39,18 @@
 
    streamlit run app.py 
    ```
+7. Access Wordware.ai URL (If not working)
+   ```bash
+   Refer to Wordware file links if any errors
+
+   Smart Notes: https://app.wordware.ai/explore/apps/1d5dd41f-89b2-42ed-9fe3-0806eb15fab9
+   Practise Questions: https://app.wordware.ai/explore/apps/88f8c8cd-494d-48bb-aec9-c409849ecc41
+   Flash Cards: https://app.wordware.ai/explore/apps/c9356c76-71a9-49af-ad56-6bb0acad1385
+   Extract Modules: https://app.wordware.ai/explore/apps/18e4b7f4-57f4-4b41-9797-90eebff79ebf
+   Chat Bot: https://app.wordware.ai/explore/apps/9f21fcb4-daae-4529-9c1e-22e14df941b2
+   
+   ```
+
 
 ## Usage
 - Choose a subject and modules for note generation.
