@@ -22,24 +22,24 @@
    ```bash
    cd DECO3000Prototype-main
    ```
-4. Install required packages:
+3. Install required packages:
    ```bash
    pip install streamlit 
    pip install requests 
    pip install python-dotenv
    ```
-5. Create a `.env` file in the root directory and add your API key:
+4. Create a `.env` file in the root directory and add your API key:
    ```plaintext
    API_KEY='your_api_key_here'
    ```
-6. Run the app:
+5. Run the app:
    ```bash
    Make sure interpreter is in Python 3.12.4 ('base') 
    Run the app in the app.py terminal with: 
 
    streamlit run app.py 
    ```
-7. Access Wordware.ai URL (If not working)
+6. Access Wordware.ai URL (If not working)
    ```bash
    Refer to Wordware file links if any errors
 
